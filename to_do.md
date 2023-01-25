@@ -1,32 +1,50 @@
 # To Do 
 
+This is a general outline of our future activities. 
+When these areas are being worked on, they are moved to [Doing](to_doing.md) then [Done](to_done.md).
+Detailed planning can be done inside of Issues and Projects (link when available)
 
-### Konzeption Ostrom-System / Voting 
-- Grundkonzeption Ostrom-System und Voting (Aktualisierte Gesamtmenge/Wahlresultat vs. Wallet/Ballot)
-- Validierung Mobilitätsdaten (Datamap AG)
-- Fakultativer Bezug Ostrom nach Validierung (API-Schnittstelle: Datamap AG <> Genossenschaft Posmo Schweiz)
-- Bezug Ostrom (Gutschreibung nach Einzahlung für Anteilscheine, nach Validierung, nach erfolgter Arbeit)
-- Ostrom-Konto (Ostrom Wallet) Web und Schnittstelle zur Posmo One App
-- Übersicht Anzahl existierender Ostroms (laufend aktualisiert), Suche nach anonymisierten Konten (Wallet-ID)
-- Voting via Posmo One App? Two Factor Authentication?
+## Legal
 
-### Website
-- Wer ist die Genossenschaft Posmo Schweiz?
-- Dokumentenablage für Förderanträge
-- Textbausteine zur Wiederverwendung (Anwerbung Neumitglieder etc.)
-- Zusammenarbeit Datamap AG und Genossenschaft Posmo Schweiz? Alle Daten von Posmo One / Posmo B werden von der 
-  Genossenschaft verwaltet.
-- Veröffentlichung der Statuten
-- Führen des Mitgliederregisters' mit Unterschrift (evtl. genügt das Hochladen der Unterschrift via Handy-Photo). Sonst Scan.
-- Einzahlung des Anteilscheinbetrags
-- Einberufung der Generalversammlung
-- Abstimmung Elektronisch
-- Publikation des Lageberichts bzw. Jahresrechnung
+- [ ] Set up governance tool
+- [ ] Founders' Assembly _(Gründerversammlung)_
+- [ ] Vote-in a board
+- [ ] Vote-in an ethics commission
 
-#### Important
-- What does Posmo do (protect, defend, reward)? Who does it? How you can join?
-- Photos of People who joined (why did I join).
-- Down-to-earth words, no technoblabla or passepartout words
+## Admin
+
+- [ ] Bank account
+- [ ] [OpenCollective](https://opencollective.com/dribdat)
+- [ ] Stripe account linked to OpenCollective
+- [ ] HR 
+- [ ] Email x at dribdat.cc (protonmail visionary)
+- [ ] Document storage for funding applications
+
+## Communications
+
+- [ ] [Mattermost chat](https://team.opendata.ch) (log in & introduce yourself)
+- [ ] Releases
+- [ ] Publications
+- [ ] Newsletter
+
+## Website
+
+- [ ] Update website [dribdat.cc](https://dribdat.cc) (+ .coop ?)
+- [ ] Who is the dribdat cooperative?
+- [ ] Text modules for reuse (recruitment of new members etc.)
+- [ ] Cooperation partners, founders, funders
+- [ ] Publication of statutes
+- [ ] Register of members with e-signature
+- [ ] Payment of the share certificate amount
+- [ ] Convocation of the general assembly
+- [ ] Electronic voting instructions
+- [ ] Publication of the management report & annual accounts
+
+## Important
+
+- [ ] Decide what does dribdat do (protect, defend, reward)? Who does it? How you can join?
+- [ ] Statements of people who joined (what's in it for me, what's in it for all of us)
+- [ ] Down-to-earth words, no technoblabla or passepartout words
 
 
 

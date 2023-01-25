@@ -1,33 +1,36 @@
-"A resource arrangement that works in practice can work in theory."   
-Ostrom's Law   
-https://www.thecommonsjournal.org/articles/10.18352/ijc.252/     
+# DRIBD
+
+A [Data Cooperative](https://en.wikipedia.org/wiki/Data_cooperative) with a focus on [performance measurement](https://en.wikipedia.org/wiki/Performance_measurement). 
+
+**Generalversammlung / General meeting #1: 26. Mai 2023, 18-19 Uhr CEST** 
+
+> DRIBD has been established to collectively manage, and derive value from, data about personal and shared engagement. This is especially relevant, but not limited to, knowledge work and volunteering done outside of your home or workplace. We are concerned about misappropriation of such data, and inspired by athletic performance, where keeping personal and collective statistics is a well established practice. We hope that our open platforms will benefit communities that form around hackathons, timebanking, coworking, open source, and other new modes of working.
 
 # Übersicht – Overview
 
-- [Genossenschafter\*in werden](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md)
-- [Organisation](https://github.com/posmocoop/general/blob/master/organization.md)
-- [Mitgliederverzeichnis](https://github.com/posmocoop/general/blob/master/members.md)
-- [Ausgaben](https://github.com/posmocoop/general/blob/master/expenses.md)
-- [Statuten](https://github.com/posmocoop/general/blob/master/statutes.md)
-- [Sitzungen](https://github.com/posmocoop/general/blob/master/meetings.md)
-- **Zweite Generalversammlung: Mittwoch, 29. Juni, 18-19 Uhr CEST** 
-  (Die erste GV fand am 26. Mai 2021, 18:00-20:00, statt.)
-
+- [Organisation](org.md)
+- [Genossenschafter\*in werden - Become a member](join.md)
+- [Mitgliederverzeichnis - Directory](members.md)
 
 ## Nächste Schritte – Next Steps
-- [To Do](https://github.com/posmocoop/general/blob/master/to_do.md)
-- [In Progress](https://github.com/posmocoop/general/blob/master/in_progress.md)
-- [Done](https://github.com/posmocoop/general/blob/master/done.md)
 
+- [To Do](to_do.md)
+- [Doing](to_doing.md)
+- [Done](to_done.md)
 
-## Rechtliche Grundlagen
-[Handelregisteramt Zürich](https://hra.zh.ch/internet/justiz_inneres/hra/de/eintragen/formulare_muster_rechtsform/genossenschaft.html)
+## Rechtliche Grundlagen - Legal Basis
 
-## Dokumente – Documents
-- [Statuten](https://github.com/posmocoop/general/files/4559344/Statuten_POSMO_Genossenschaft_Schweiz_Version2020-05-04.pdf) 
-- [Gewählte Mitglieder](https://docs.google.com/document/d/1YUm9ym33ajHGp7-fkWoBCT857fq7Cp5q9ghrBLua2kc/edit#)
-- [Mitgliederverzeichnis](https://github.com/posmocoop/general/blob/master/members.md)
+- [Statuten - Statutes](statutes.md)
+- [Handelregisteramt Bern](http://www.hrabe.ch/)
 
+## Operatives – Operations
 
-## Website der Posmo Genossenschaft 
-- [Mitgliederverzeichnis](https://github.com/posmocoop/general/blob/master/membership.md)
+- [Einnahmen - Credits](https://opencollective.com/dribdat/transactions?type=CREDIT)
+- [Ausgaben - Expenses](https://opencollective.com/dribdat/expenses)
+
+# ¶ 
+
+"A resource arrangement that works in practice can work in theory."   
+[Ostrom's Law](https://www.thecommonsjournal.org/articles/10.18352/ijc.252/)
+
+This repository is licensed with [CC0 1.0 Universal](LICENSE)
