@@ -1,10 +1,16 @@
 # DRIBD
 
-A [Data Cooperative](https://en.wikipedia.org/wiki/Data_cooperative) with a focus on [performance measurement](https://en.wikipedia.org/wiki/Performance_measurement). 
+> A [Data Cooperative](https://en.wikipedia.org/wiki/Data_cooperative) with a focus on [performance measurement](https://en.wikipedia.org/wiki/Performance_measurement). 
 
-**Generalversammlung / General meeting #1: 26. Mai 2023, 18-19 Uhr CEST** 
+### DRIBD has been established to collectively manage data of, and derive added value from, evidence of personal and shared engagement.
 
-> DRIBD has been established to collectively manage, and derive value from, data about personal and shared engagement. This is especially relevant, but not limited to, knowledge work and volunteering done outside of your home or workplace. We are concerned about misappropriation of such data, and inspired by athletic performance, where keeping personal and collective statistics is a well established practice. We hope that our open platforms will benefit communities that form around hackathons, timebanking, coworking, open source, and other new modes of working.
+This is especially relevant, but not limited to, knowledge work, accreditation steps, and volunteering done outside of your home or workplace. 
+
+It is concerning when such data is misappropriated for targeted advertisement, manipulative personnel management or recruitment, misleading analysis, etc.
+
+We can be inspired by athletic performance, where keeping personal and collective statistics is a well established practice. 
+
+Our open platforms should benefit communities that form around hackathons, timebanking, coworking, repair cafés, open source projects, and other new modes of working.
 
 # Übersicht – Overview
 
@@ -30,7 +36,7 @@ A [Data Cooperative](https://en.wikipedia.org/wiki/Data_cooperative) with a focu
 
 # ¶ 
 
-"A resource arrangement that works in practice can work in theory."   
-[Ostrom's Law](https://www.thecommonsjournal.org/articles/10.18352/ijc.252/)
+“Rarely do all the participants using a resource have identical investment or harvesting power” 
+-- [Ostrom 2009b](https://www.thecommonsjournal.org/articles/10.18352/ijc.252/#r56) in [Fennell 2011](https://www.thecommonsjournal.org/articles/10.18352/ijc.252/) 
 
-This repository is licensed with [CC0 1.0 Universal](LICENSE)
+This repository is a fork of [posmocoop/general](https://github.com/posmocoop/general/blob/44c5234882e3d8b6c4776684e919640717c1186b/README.md), and is licensed with [CC0 1.0 Universal](LICENSE) to assure future reuse.
