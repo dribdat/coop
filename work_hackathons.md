@@ -4,4 +4,4 @@
 
 | date | topic | participants | duration |
 | --- | --- | --- | --- | 
-| 2023-XX-YY | Hackathon, 9:00-12:34 | a,b,c | 3.5 h |
+| 26.01.2023 | Set up coop | ol | 3.5 h |
