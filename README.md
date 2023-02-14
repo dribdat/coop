@@ -1,16 +1,14 @@
-# DRIBD
+# DRIBD@
 
-> A [Data Cooperative](https://en.wikipedia.org/wiki/Data_cooperative) with a focus on [performance measurement](https://en.wikipedia.org/wiki/Performance_measurement). 
+### A [Data Cooperative](https://en.wikipedia.org/wiki/Data_cooperative) with a focus on [performance measurement](https://en.wikipedia.org/wiki/Performance_measurement), established to collectively manage data of, and derive added value from, evidence of personal and shared engagement.
 
-### DRIBD has been established to collectively manage data of, and derive added value from, evidence of personal and shared engagement.
+This is especially relevant, but not limited to, knowledge work, accreditation steps, and volunteering done outside of your home or workplace. We are inspired by athletic performance, where keeping personal and collective statistics is a well established practice. Yet it is concerning to us when human performance data is misappropriated for targeted advertisement, manipulative personnel management or recruitment, misleading analysis or automated decisions with questionable ethics.
 
-This is especially relevant, but not limited to, knowledge work, accreditation steps, and volunteering done outside of your home or workplace. 
+[Open platforms](https://dribdat.cc) should benefit all people, supporting the communities that form around hackathons, timebanking, coworking, repair cafés, open source projects, and other new modes of working. The basic purpose of the cooperative is to maintain, develop, and educate people in their application.
 
-It is concerning when such data is misappropriated for targeted advertisement, manipulative personnel management or recruitment, misleading analysis, etc.
+**Join us today and be a cool Dribda!** ⁂ 🚀 
 
-We can be inspired by athletic performance, where keeping personal and collective statistics is a well established practice. 
-
-Our open platforms should benefit communities that form around hackathons, timebanking, coworking, repair cafés, open source projects, and other new modes of working.
+To become an eligible member, you will need to purchase 2 shares in the first year, and 1 share every following year. It is easiest therefore to make a [one-time share purchase](https://opencollective.com/dribdatcoop/contribute/initial-setup-52256/checkout), followed by a recurring [annual membership](https://opencollective.com/dribdatcoop/contribute/coop-membership-52252). See [detailed instructions](join.md) and if you have any questions, please [get in touch](mailto:dribdat@datalets.ch).
 
 # Übersicht – Overview
 

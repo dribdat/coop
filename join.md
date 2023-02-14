@@ -4,7 +4,7 @@
 
 [Hier sind unsere Statuten](statutes.md). Es lohnt sich, sie zu lesen, bevor Du zu uns stösst!
 
-## 2. E-Mail an admin @ dribdat.cc
+## 2. Sich verbinden
 
 Um Genossenschafter zu werden, brauchen wir von Dir folgende - gesetzlich vorgeschriebene - Angaben:
 
@@ -27,33 +27,24 @@ Zahle gleichzeitig Deine Anteilscheine ein.
 
 Mit dem Kauf von Anteilscheinen, bestätigst Du die Kenntnisnahme der Statuten.
 
+- Auf [OpenCollective](https://opencollective.com/dribdatcoop/) gibt es diverse Zahlungsmöglichkeiten.
 - Im ersten Jahr mindestens 2 Anteilscheine à CHF 50.-, d.h. CHF 100.-, im zweiten Jahr einen Anteilschein.
-- Maximal sind 5 Anteilscheine pro Jahr möglich
-            
-```
-IBAN: CHXX XXXX XXXX
-Alternative Bank Schweiz
-Amthausquai 21
-Postfach
-4601 Olten
+- Maximal sind 5 Anteilscheine pro Jahr möglich.
 
-BIC (SWIFT): ABSOCH22XXX
-Bankclearing (IID): 8390
-
-Genossenschaft DRIBD
-Könizstrasse 298  
-3098 Köniz  
-```
+GOTO https://opencollective.com/dribdatcoop/contribute/coop-membership-52252
 
 ## 4. Sobald die Angaben eingetroffen sind
 
-- Benachrichtigen wir Dich per E-Mail.
+- Wir Benachrichtigen Dich per E-Mail mit einem Eintrittsbestätigung.
+  - Dies ist persönlich und nicht Übertragbar.
 - Wir führen Dich im [Mitgliederregister](members.md) namentlich auf. 
+  - Sie dürfen gerne sich selber über Git eintragen, via Pull Request!
 - Wir laden Dich in einen Diskussions-Channel ein.
-- Erhältst Du Zugang zur Alpha-Version der DRIBD-App.
+  - Dadurch erhältst du auch Zugang zu unsere Apps, kommende Events und Infrastrukturen.
 
 Herzlichen Dank für Dein Interesse. Wir freuen uns auf Dich!            
                    
 Liebe Grüsse            
 Deine Verwaltung              
 X Y Z
+

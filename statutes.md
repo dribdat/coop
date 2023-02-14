@@ -1,14 +1,14 @@
-Genossenschaft DRIBD            
+Genossenschaft DRIBD@            
 CHE-xxx.yyy.zzz                 
                  
-# Statuten der Genossenschaft DRIBD
+# Statuten der Genossenschaft DRIBD@
 
 mit Sitz in Köniz bei Bern
 
 ## I. Grundlage			
 ### Art. 1 – Rechtsform und Sitz		
 
-Die **Genossenschaft DRIBD** ist eine Genossenschaft gemäss den vorliegenden Statuten und den Bestimmungen der Artikel 828ff. des Schweizerischen Obligationenrechts mit Sitz Könizstrasse 298, 3098 Köniz.
+Die **Genossenschaft DRIBD@** ist eine Genossenschaft gemäss den vorliegenden Statuten und den Bestimmungen der Artikel 828ff. des Schweizerischen Obligationenrechts mit Sitz Könizstrasse 298, 3098 Köniz.
 
 ### Art. 2 – Zweck
 
@@ -24,15 +24,15 @@ tl;dr
     
 <ol type="a" start="a">       
 
-<li>eine sichere Kollaborationsplattform (weiterhin "DRIBD-Plattform") zur Speicherung, zur Verwaltung und zum Teilen von personenbezogene Leistungsdaten jeglicher Art (so wie biometrische Daten, Zeiterfassungen, Gruppengespräche, Nachweise von Tätigkeit und Freiwilligenarbeit, Evaluationen, und sonstiges Material), dies zu betreiben, und externen Dienstleistern zur Verfügung zu stellen; </li>
+<li>eine sichere Kollaborationsplattform (weiterhin "DRIBD@-Plattform") zur Speicherung, zur Verwaltung und zum Teilen von personenbezogene Leistungsdaten jeglicher Art (so wie biometrische Daten, Zeiterfassungen, Gruppengespräche, Nachweise von Tätigkeit und Freiwilligenarbeit, Evaluationen, und sonstiges Material), dies zu betreiben, und externen Dienstleistern zur Verfügung zu stellen; </li>
                      			 	       				
-<li>die DRIBD-Plattform natürlichen Personen (Genossenschafter*innen und Dritten) zur Verfügung zu stellen, die an der Plattform als "Nutzer*innen" (User) partizipieren;</li> 
+<li>die DRIBD@-Plattform natürlichen Personen (Genossenschafter*innen und Dritten) zur Verfügung zu stellen, die an der Plattform als "Nutzer*innen" (User) partizipieren;</li> 
                        		 							 
 <li>unter den Nutzer*innen breite Genossenschaftsmitgliedschaft zu fördern, und es ihnen als Genossenschaftsmitgliedern zu ermöglichen, gemeinschaftliche Interessen wahrzunehmen;</li>  				 		        
 	          					
 <li>die kollektiven Interessen der Nutzer*innen wahrzunehmen, indem ihre personenbezogenen Daten mit ihrer Einwilligung als gemeinsame Ressource genutzt werden. Dies geschieht, indem eine IT-Infrastruktur aufgebaut wird, die es den Nutzer*innen ermöglicht, Anfragen Dritter zur Analyse ihrer personenbezogenen Daten zu akzeptieren und eine ausdrückliche und informierte Einwilligung zur Sekundärnutzung ihrer personenbezogenen Daten durch Dritte zu erteilen, resultierend in einer wirtschaftlichen Vergütung für die Genossenschaft;</li> 
  	      										
-<li>mit der DRIBD-Plattform die Entstehung eines innovativen Ökosystems zu fördern, in dem Dritte Dienstleistungen anbieten können, die auf den auf der Plattform gehosteten Daten basieren;</li> 
+<li>mit der DRIBD@-Plattform die Entstehung eines innovativen Ökosystems zu fördern, in dem Dritte Dienstleistungen anbieten können, die auf den auf der Plattform gehosteten Daten basieren;</li> 
  	        										
 <li>Forschungsprojekte und weitere Projekte zur Realisierung einer fairen, digitalen Gesellschaft und zur digitalen Selbstbestimmung der Bevölkerung zu fördern</li> 
  											
@@ -52,17 +52,17 @@ tl;dr
       
 ### Art. 3 – Plattform-Zugang und Dienstleistungen
 
-Genossenschafts-Mitglieder und Nicht-Mitglieder können als Nutzerinnen an der DRIBD-Plattform partizipieren und damit verbundene Dienstleistungen nutzen.     
+Genossenschafts-Mitglieder und Nicht-Mitglieder können als Nutzerinnen an der DRIBD@-Plattform partizipieren und damit verbundene Dienstleistungen nutzen.     
 
-Die Benutzung der DRIBD-Plattform und der damit verbundenen Dienstleistungen kann kostenpflichtig sein.    
+Die Benutzung der DRIBD@-Plattform und der damit verbundenen Dienstleistungen kann kostenpflichtig sein.    
 
 ### Art. 4 – Verfügungsgewalt der Nutzerinnen über ihre personenbezogenen Daten
 
-Jeder und jede Nutzerin verfügt individuell über seine/ihre auf der DRIBD-Plattform gespeicherten, personenbezogenen Daten gegenüber der Genossenschaft.          
+Jeder und jede Nutzerin verfügt individuell über seine/ihre auf der DRIBD@-Plattform gespeicherten, personenbezogenen Daten gegenüber der Genossenschaft.          
 
-Die Nutzerinnen verfügen genossenschaftlich über das Teilen ihrer personenbezogenen Daten (oder spezifischer Subsets ihrer personenbezogenen Daten) über die DRIBD-Plattform mit Dritten. Das Recht sich bei Projekten mit Dritten zu enthalten, ist aufrechterhalten.           
+Die Nutzerinnen verfügen genossenschaftlich über das Teilen ihrer personenbezogenen Daten (oder spezifischer Subsets ihrer personenbezogenen Daten) über die DRIBD@-Plattform mit Dritten. Das Recht sich bei Projekten mit Dritten zu enthalten, ist aufrechterhalten.           
                    
-Die Nutzerinnen haben das Recht, ihre personenbezogenen Daten in einem dokumentierten Datenformat von der DRIBD-Plattform zu exportieren.           
+Die Nutzerinnen haben das Recht, ihre personenbezogenen Daten in einem dokumentierten Datenformat von der DRIBD@-Plattform zu exportieren.           
               
 Die Nutzerinnen haben das Recht, ihre personenbezogenen Daten von der Plattform zu löschen.
              
@@ -77,14 +77,14 @@ Der Zugriff Dritter auf die personenbezogenen Daten (oder auf spezifische Subset
 Dies gilt für den Zugriff auf die personenbezogenen Daten in originaler, verschlüsselter (mit einer bestimmten Person über einen Schlüssel verknüpfter) und anonymisierter (nur mit unverhältnismässigem Aufwand auf eine bestimmte Person zurückführbarer) Form.             
 Nutzung der Daten durch Dritte werden durch den Ethikrat der Genossenschaft geprüft.
                       
-Die Genossenschaft ist bestrebt, dass die Daten der Nutzerinnen die DRIBD Plattform nicht verlassen, bzw. dass die Daten durch Dritte dupliziert werden und damit von der Genossenschaft nicht mehr geschützt werden können.                   
+Die Genossenschaft ist bestrebt, dass die Daten der Nutzerinnen die DRIBD@ Plattform nicht verlassen, bzw. dass die Daten durch Dritte dupliziert werden und damit von der Genossenschaft nicht mehr geschützt werden können.                   
                             
-Die Genossenschaft erbringt keine Dienstleistungen, die es Nutzerinnen erlauben, Zugriff auf ihre personenbezogenen Daten gegen individuelle Entschädigung zu verkaufen. Nutzerinnen und Genossenschafterinnen haben kein Recht, die DRIBD Plattform dahingehend zu missbrauchen.
+Die Genossenschaft erbringt keine Dienstleistungen, die es Nutzerinnen erlauben, Zugriff auf ihre personenbezogenen Daten gegen individuelle Entschädigung zu verkaufen. Nutzerinnen und Genossenschafterinnen haben kein Recht, die DRIBD@ Plattform dahingehend zu missbrauchen.
 Damit werden aus ethischer Sicht problematische individuelle finanzielle Anreize gemieden.	
                         
 ### Art. 6 – Nutzung des Bilanzgewinns	
 
-Der Bilanzgewinn soll hauptsächlich dazu genutzt werden, die mit der und durch die DRIBD-Plattform angebotenen Dienstleistungen qualitativ und quantitativ zu verbessern, die finanzielle Nachhaltigkeit zu sichern und die gemeinnützigen Zwecke der Genossenschaft gemäss Art. 2 zu verfolgen.
+Der Bilanzgewinn soll hauptsächlich dazu genutzt werden, die mit der und durch die DRIBD@-Plattform angebotenen Dienstleistungen qualitativ und quantitativ zu verbessern, die finanzielle Nachhaltigkeit zu sichern und die gemeinnützigen Zwecke der Genossenschaft gemäss Art. 2 zu verfolgen.
           
 Die Genossenschaft kann Dividenden ausschütten. Dazu wird ein Reservefonds von maximal 10% pro Jahr gebildet. Dieser muss mindestens 50% des Genossenschaftskapitals betragen, bis die erste Dividenden-Ausschüttung stattfindet.
 
@@ -123,7 +123,7 @@ Mitglieder ist ausgeschlossen.
 
 2. Über die Aufnahme als Mitglied entscheidet die Verwaltung endgültig. Die Verwaltung kann ein Gesuch ohne Begründung ablehnen. Die Verwaltung kann in Ausnahmefällen die Aufnahme von Mitgliedern mit Wohnsitz ausserhalb der Schweiz gewähren.
 
-3. Die Genossenschaft DRIBD kann auch virtuelle Genossenschaften für andere Länder aufbauen. Diese können ab einer gewissen Grösse in Länder-Genossenschaften überführt werden.
+3. Die Genossenschaft DRIBD@ kann auch virtuelle Genossenschaften für andere Länder aufbauen. Diese können ab einer gewissen Grösse in Länder-Genossenschaften überführt werden.
 
 4. Die Mitgliedschaft bei der Genossenschaft ist nicht Voraussetzung für die Eröffnung eines Nutzerinnen-Kontos.
 
@@ -133,7 +133,7 @@ Mitglieder ist ausgeschlossen.
 
 2. Das Register wird publiziert und ist für die Mitglieder zugänglich.
 
-### Art. 12 – Beendigung der Mitgliedschaft bei der Genossenschaft DRIBD
+### Art. 12 – Beendigung der Mitgliedschaft bei der Genossenschaft DRIBD@
 1. Die Mitgliedschaft endet durch:
 <ol type="a" start="a">       
 <li>freiwilligen Austritt;</li>
@@ -352,7 +352,7 @@ Die Arbeitsgruppen organisieren sich selbst. Grundsätzlich gelten die, mit der 
 
 2. Das Vermögen der aufgelösten Genossenschaft fällt nach Tilgung ihrer Schulden an. Das Vermögen muss an eine andere gemeinnützige Institution mit ähnlicher Zwecksetzung fallen.				 							
 3. Die Genossenschaftsmitglieder haben keine Ansprüche auf die Vermögenswerte der Genossenschaft.					 							
-4. Alle Daten der Nutzer\*innen werden von der DRIBD-Plattform gelöscht. Die Nutzer\*innen werden eingeladen, ihr Recht auf Datenexport gemäss Art. 4 innert nützlicher Frist wahrzunehmen.			
+4. Alle Daten der Nutzer\*innen werden von der DRIBD@-Plattform gelöscht. Die Nutzer\*innen werden eingeladen, ihr Recht auf Datenexport gemäss Art. 4 innert nützlicher Frist wahrzunehmen.			
 
 
 ## VII. Benachrichtigungen		
@@ -361,10 +361,4 @@ Die Arbeitsgruppen organisieren sich selbst. Grundsätzlich gelten die, mit der 
 1. Mitteilungen an die Genossenschafter erfolgen per Brief (ohne Einschreiben) oder E-Mail, jeweils an die letzte bekannte Adresse.	
 				 			
 2. Publikationsorgan der Genossenschaft ist das Schweizerische Handelsamtsblatt.
-
-               
------                              
-Zum Herunterladen als [PDF](https://github.com/DRIBDcoop/general/raw/master/Statuten_Genossenschaft_DRIBD_Schweiz.pdf). 
-
-
 

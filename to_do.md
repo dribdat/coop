@@ -1,8 +1,8 @@
 # To Do 
 
 This is a general outline of our future activities. 
-When these areas are being worked on, they are moved to [Doing](to_doing.md) then [Done](to_done.md).
-Detailed planning can be done inside of Issues and Projects (link when available)
+
+As soon as these areas are being worked on, they will be linked to a project tracker, where detailed planning can be done.
 
 ## Legal
 
@@ -13,23 +13,24 @@ Detailed planning can be done inside of Issues and Projects (link when available
 
 ## Admin
 
-- [ ] [OpenCollective](https://opencollective.com/dribdat)
-- [ ] Bank account
-- [ ] Stripe account linked to bank and OpenCollective
-- [ ] HR ...
-- [ ] Email x at dribdat.cc (protonmail visionary)
+- [ ] OpenCollective
+- [ ] Dedicated bank account
+- [ ] Stripe account linked to bank/collective
+- [ ] HR and legal support
+- [ ] Email forwarder
 - [ ] Document storage for funding applications
 
 ## Communications
 
-- [ ] [Mattermost chat](https://team.opendata.ch) (log in & introduce yourself)
+- [ ] Members chats
 - [ ] Releases
 - [ ] Publications
 - [ ] Newsletter
 
 ## Website
 
-- [ ] Update website [dribdat.cc](https://dribdat.cc) (+ .coop ?)
+- [ ] Publish coop to dribd.at
+- [ ] Update platform website dribdat.cc
 - [ ] Who is the dribdat cooperative?
 - [ ] Text modules for reuse (recruitment of new members etc.)
 - [ ] Cooperation partners, founders, funders
@@ -42,7 +43,7 @@ Detailed planning can be done inside of Issues and Projects (link when available
 
 ## Important
 
-- [ ] Decide what does dribdat do (protect, defend, reward)? Who does it? How you can join?
+- [ ] Decide what does DRIBD@ do (protect, defend, reward)? Who does it? How you can join?
 - [ ] Statements of people who joined (what's in it for me, what's in it for all of us)
 - [ ] Down-to-earth words, no technoblabla or passepartout words
 

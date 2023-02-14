@@ -1,4 +1,4 @@
-# DRIBD
+# DRIBD@
 
 Datengenossenschaft - Data Cooperative            
 
@@ -14,24 +14,31 @@ E. Arbeitsgruppen - Working Groups
 
 ### Präsident - President
 
+This is a floating role, allocated on a sociocratic basis.
 
 ### Vize-Präsidentin - Vice President
 
+This is a floating role, allocated on a sociocratic basis.
 
 ### Sekretär - Secretary
 
+The Secretary will be appointed for at least 1 year by the President and Vice President.
 
 ## C. Ethikrat - Ethics Board
 
 ### Vorsitz - Chair
 
+TBD
 
 ### Stellvertretung - Deputy
 
+TBD
 
 ### Mitglieder - Members
 
+TBD
 
 ## E. Arbeitsgruppen - Working Groups  
 
+TBD
 
