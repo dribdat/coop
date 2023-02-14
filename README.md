@@ -15,12 +15,7 @@ To become an eligible member, you will need to purchase 2 shares in the first ye
 - [Organisation](org.md)
 - [Genossenschafter\*in werden - Become a member](join.md)
 - [Mitgliederverzeichnis - Directory](members.md)
-
-## Nächste Schritte – Next Steps
-
-- [To Do](to_do.md)
-- [Doing](to_doing.md)
-- [Done](to_done.md)
+- [Nächste Schritte – Next Steps](to_do.md)
 
 ## Rechtliche Grundlagen - Legal Basis
 
